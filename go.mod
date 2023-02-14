@@ -14,7 +14,7 @@ require (
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-ini/ini v1.33.0 // indirect
 	github.com/go-kit/kit v0.9.0
-	github.com/gogo/protobuf v1.3.0 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/golang/protobuf v1.5.2
 	github.com/gomodule/redigo v1.8.9
@@ -50,7 +50,7 @@ require (
 	go.opentelemetry.io/otel/sdk/export/metric v0.23.0
 	go.opentelemetry.io/otel/sdk/metric v0.23.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20211102061401-a2f17f7b995c // indirect
 	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c
 	gonum.org/v1/gonum v0.0.0-20190502212712-4a2eb0188cbc // indirect
